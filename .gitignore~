@@ -1,0 +1,7 @@
+*.iml 
+*.iml 
+*.idea 
+hsf.configuration 
+hsf.configuration/* 
+.idea 
+.idea/* 
