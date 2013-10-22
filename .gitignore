@@ -1,5 +1,7 @@
 hsf.configuration 
-hsf.configuration/* 
 .idea 
-.idea/* 
 *.iml 
+.idea* 
+hsf.configuration* 
+target
+target*
