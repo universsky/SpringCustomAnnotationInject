@@ -14,7 +14,7 @@
     <properties>
         <spring.version>3.2.4.RELEASE</spring.version>
         <hsfunit.version>1.0.4-SNAPSHOT</hsfunit.version>
-        <dxp.hsf.version>1.6-SNAPSHOT</dxp.hsf.version>
+        <dxp.hsf.version>1.6.1-SNAPSHOT</dxp.hsf.version>
     </properties>
 
     <dependencies>
